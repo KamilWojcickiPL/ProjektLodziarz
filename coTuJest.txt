@@ -1,4 +1,4 @@
 Jest to projekt który został stowrzony przez 3 programistów
 Kamil Wójcicki - SWIFT DEVELOPER
-Eryk Urban - PHP DEVELOPER
+Eryk Urban - PYTHON DEVELOPER
 Mateusz Zdunek - C++ DEVELOPER
